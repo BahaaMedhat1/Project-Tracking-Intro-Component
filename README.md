@@ -15,24 +15,33 @@ It showcases a hero section with:
 - Modern typography and clean visuals
 - Devices illustration for project context
 
-### Features
+### Screenshot
 
-- Mobile-first responsive design
-- CSS Flexbox and Grid usage
+![Preview](images/preview.png)
+
+### Links
+
+- Solution URL: [GitHub Repository](https://github.com/BahaaMedhat1/Project-Tracking-Intro-Component)
+- Live Site URL: [Live Demo](https://bahaamedhat1.github.io/Project-Tracking-Intro-Component/)
+
+### Built With
+
 - Semantic HTML5
-- Interactive navigation menu
-- Styled buttons with hover effects
+- CSS Custom Properties (Variables)
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
+- Vanilla JavaScript for share menu toggle
 
-### Tech Stack
+### What I Learned
 
-- HTML5
-- CSS3
-- JavaScript (for mobile nav toggle)
+- How to structure a responsive card component with CSS Grid and Flexbox.
+- Using CSS variables to maintain consistent colors and typography.
+- Creating a toggleable share menu with JavaScript.
+- Handling responsiveness and media queries for small screen devices.
 
-### Setup
+## Author
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/project-tracking-intro-component.git
-```
+- Frontend Mentor - [@BahaaMedhat1](https://www.frontendmentor.io/profile/BahaaMedhat1)
+- GitHub - [BahaaMedhat1](https://github.com/BahaaMedhat1)
+- LinkedIn - [Bahaa Wanas](https://www.linkedin.com/in/bahaa-wanas-9797b923a)
